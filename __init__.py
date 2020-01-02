@@ -1,4 +1,4 @@
-# NAME: Scrolling Text Module(GITHUB: https://github.com/AvienJ/Scrolling-Text-Module/)
+# NAME: Scrolling Text Module
 # FILE: scrtxt.py(DIR: .\)
 
 # DESCRIPTION: "The main and only file to scrolling text module"
