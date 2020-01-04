@@ -1,5 +1,5 @@
 # NAME: Scrolling Text Module
-# FILE: scrtxt.py(DIR: .\)
+# FILE: __init__.py(DIR: .\)
 
 # DESCRIPTION: "The main and only file to scrolling text module"
 # CREDITS: AvienJ(GITHUB: AvienJ)
